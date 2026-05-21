@@ -31,6 +31,8 @@ Great question, reader! I made this to try communication between microcontroller
 
 The reference Transf- (it cut off) is for magnetic pogo pin connectors. You can check the schematic, but RX is labeled for you, if you are going for TX/RX communicaton. A resistor is also already placed on the TX line. If you want to try for communication, go for it!
 
+But I also made this cause my friends play One Piece / Riftbound TCG. I, myself only play Riftbound, but I thought it'd be cooler to have more than one game option on the TCG Mat. I also have no idea how to play other TCG's, so that's why the only options are Riftbound and One Piece.
+
 **For the TCG fans:**
 
 Take a shower.
