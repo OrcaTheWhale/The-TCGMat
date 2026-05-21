@@ -25,6 +25,12 @@ You take the parts and attach them, no screws needed. You link them using four o
 For the code, well... It's built based off of pure hopes and dreams. It is about 800 lines of absolutely disgustingly unoptimized code. 
 There are three buttons: On/Off, Config, and Action. On/Off is self explanatory. Config is for the settings, it allows scrolling through different options. Action selects those options.
 
+**Why did I make this?**
+
+Great question, reader! I made this to try communication between microcontrollers. Originally, the idea was to have two mats being able to connect to each other and share info, but I gave up on that idea after realising I would have to change... some things... But, the option is still there, if you want to try to go for it yourself.
+
+The reference Transf- (it cut off) is for magnetic pogo pin connectors. You can check the schematic, but RX is labeled for you, if you are going for TX/RX communicaton. A resistor is also already placed on the TX line. If you want to try for communication, go for it!
+
 **For the TCG fans:**
 
 Take a shower.
